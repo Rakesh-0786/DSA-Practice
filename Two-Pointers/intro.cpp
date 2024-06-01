@@ -1,0 +1,1 @@
+// The Two Pointer technique is a pattern in which two pointers iterate across the data structure until one or both of them satisfy the necessary condition
